@@ -1,3 +1,3 @@
 export const Module1Component = () => {
-  return <div>Module1Component</div>;
+  return <div>This is the module 1 component</div>;
 };
